@@ -7,7 +7,7 @@
                  [org.clojars.ghoseb/cron4j "2.2.1"]
                  [com.draines/postal "1.8.0"]
                  [hiccup "1.0.1"]
-                 [org.apache.poi/poi "3.8"]
+                 [dk.ative/docjure "1.6.0"]
                  [korma "0.3.0-beta7"]
                  ;; Add the appropriate JDBC drivers for databases here.
                  ]
