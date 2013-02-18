@@ -1,1 +1,2 @@
-(ns newshound.mailer)
+(ns newshound.mailer
+  (:require [postal.core :as postal]))
